@@ -1,0 +1,28 @@
+{
+    "buildings": [
+        {
+            "name": "generic_house",
+            "type": "residential",
+            "action": "collect",
+            "x": 100,
+            "y": 100,
+            "enabled": true
+        },
+        {
+            "name": "generic_house",
+            "type": "residential",
+            "action": "collect",
+            "x": 150,
+            "y": 150,
+            "enabled": true
+        },
+        {
+            "name": "generic_production",
+            "type": "production",
+            "action": "produce",
+            "x": 200,
+            "y": 200,
+            "enabled": true
+        }
+    ]
+}
