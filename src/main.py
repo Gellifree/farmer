@@ -1,17 +1,21 @@
 from farmer.menu import Menu
 from farmer import diagnostics
+from farmer import functions
 
 def main():
     main_menu =[
         "Check layout",
-        "Check buildings",
-        "Show info"
+        "Check color",
+        "Show info",
+        "test automation start"
     ]
 
     actions = [
         diagnostics.check_layout,
         diagnostics.check_buildings,
-        diagnostics.show_info
+        diagnostics.show_info,
+        functions.start_production
+
     ]
 
     while True:

@@ -24,6 +24,7 @@ class Config:
                 action=item["action"],
                 x=item["x"],
                 y=item["y"],
+                cycle_time=item["cycle_time"],
                 enabled=item["enabled"]
             )
             buildings.append(building)

@@ -1,27 +1,245 @@
 {
     "buildings": [
         {
-            "name": "generic_house",
-            "type": "residential",
-            "action": "collect",
-            "x": 100,
-            "y": 100,
-            "enabled": true
-        },
-        {
-            "name": "generic_house",
-            "type": "residential",
-            "action": "collect",
-            "x": 150,
-            "y": 150,
-            "enabled": true
-        },
-        {
-            "name": "generic_production",
+            "name": "Mészáros",
             "type": "production",
             "action": "produce",
-            "x": 200,
-            "y": 200,
+            "x": 1070,
+            "y": 418,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Mészáros",
+            "type": "production",
+            "action": "produce",
+            "x": 1120,
+            "y": 442,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Mészáros",
+            "type": "production",
+            "action": "produce",
+            "x": 1167,
+            "y": 464,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Mészáros",
+            "type": "production",
+            "action": "produce",
+            "x": 1211,
+            "y": 489,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Mészáros",
+            "type": "production",
+            "action": "produce",
+            "x": 1259,
+            "y": 513,
+            "cycle_time": 300,
+            "enabled": true
+        },
+
+
+        {
+            "name": "Teraszos Farm",
+            "type": "production",
+            "action": "produce",
+            "x": 1073,
+            "y": 508,
+            "cycle_time": 300,
+            "enabled": true
+        },
+
+        {
+            "name": "Suszterműhely",
+            "type": "production",
+            "action": "produce",
+            "x": 813,
+            "y": 612,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Suszterműhely",
+            "type": "production",
+            "action": "produce",
+            "x": 860,
+            "y": 632,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Suszterműhely",
+            "type": "production",
+            "action": "produce",
+            "x": 909,
+            "y": 656,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Suszterműhely",
+            "type": "production",
+            "action": "produce",
+            "x": 956,
+            "y": 680,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Suszterműhely",
+            "type": "production",
+            "action": "produce",
+            "x": 1002,
+            "y": 703,
+            "cycle_time": 300,
+            "enabled": true
+        },
+
+        {
+            "name": "Gazdaság",
+            "type": "production",
+            "action": "produce",
+            "x": 970,
+            "y": 604,
+            "cycle_time": 300,
+            "enabled": true
+        },
+
+        {
+            "name": "Kunyhó",
+            "type": "residential",
+            "action": "collect",
+            "x": 1034,
+            "y": 638,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Kunyhó",
+            "type": "residential",
+            "action": "collect",
+            "x": 1064,
+            "y": 654,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Kunyhó",
+            "type": "residential",
+            "action": "collect",
+            "x": 1003,
+            "y": 652,
+            "cycle_time": 300,
+            "enabled": true
+        },
+        {
+            "name": "Kunyhó",
+            "type": "residential",
+            "action": "collect",
+            "x": 1034,
+            "y": 669,
+            "cycle_time": 300,
+            "enabled": true
+        },
+
+        {
+            "name": "Cölöpház",
+            "type": "residential",
+            "action": "collect",
+            "x": 1190,
+            "y": 665,
+            "cycle_time": 900,
+            "enabled": true
+        },
+        {
+            "name": "Cölöpház",
+            "type": "residential",
+            "action": "collect",
+            "x": 1223,
+            "y": 680,
+            "cycle_time": 900,
+            "enabled": true
+        },
+
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 798,
+            "y": 551,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 830,
+            "y": 567,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 862,
+            "y": 582,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 891,
+            "y": 597,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 828,
+            "y": 529,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 858,
+            "y": 542,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 890,
+            "y": 557,
+            "cycle_time": 3600,
+            "enabled": true
+        },
+        {
+            "name": "Vörös Homokkő Ház",
+            "type": "residential",
+            "action": "collect",
+            "x": 921,
+            "y": 574,
+            "cycle_time": 3600,
             "enabled": true
         }
     ]
